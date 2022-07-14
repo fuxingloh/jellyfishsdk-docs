@@ -1,8 +1,5 @@
 ---
-id: oracle
 title: Oracle API
-sidebar_label: Oracle API
-slug: /jellyfish/api/oracle
 ---
 
 ```js

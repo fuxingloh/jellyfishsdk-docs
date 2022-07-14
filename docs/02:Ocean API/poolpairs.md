@@ -1,8 +1,5 @@
 ---
-id: poolpairs
 title: Pool Pairs Ocean REST API
-sidebar_label: Pool Pairs
-slug: /poolpairs
 ---
 
 ## List Pool Pairs

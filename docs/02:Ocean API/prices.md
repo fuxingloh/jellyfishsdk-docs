@@ -1,8 +1,5 @@
 ---
-id: prices
 title: Prices Ocean REST API
-sidebar_label: Prices
-slug: /prices
 ---
 
 ## List Price Ticker

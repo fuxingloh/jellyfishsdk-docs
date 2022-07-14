@@ -1,8 +1,5 @@
 ---
-id: account
 title: Account API
-sidebar_label: Account API
-slug: /jellyfish/api/account
 ---
 
 ```js

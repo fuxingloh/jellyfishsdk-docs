@@ -1,8 +1,5 @@
 ---
-id: address
 title: Address Ocean REST API
-sidebar_label: Address
-slug: /address
 ---
 
 With the Address API, you can query address related resources such as UTXO balances, Token Balances, Vaults and

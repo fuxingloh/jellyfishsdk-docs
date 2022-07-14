@@ -1,8 +1,5 @@
 ---
-id: design
 title: Design
-sidebar_label: Design
-slug: /design
 ---
 
 ## Promise-based client

@@ -1,8 +1,5 @@
 ---
-id: overview
 title: Ocean REST API
-sidebar_label: Overview
-slug: /
 ---
 
 :::info BETA API v0 & beyond

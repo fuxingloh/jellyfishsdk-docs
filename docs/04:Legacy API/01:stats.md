@@ -1,8 +1,5 @@
 ---
-id: stats
 title: Stats API
-sidebar_label: Stats API
-slug: /
 ---
 
 ## Stats Sample

@@ -1,8 +1,5 @@
 ---
-id: vault
 title: Vault API
-sidebar_label: Vault API
-slug: /jellyfish/api/vault
 ---
 
 ```js

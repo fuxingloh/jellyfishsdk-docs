@@ -1,8 +1,5 @@
 ---
-id: governance
 title: Governance API
-sidebar_label: Governance API
-slug: /jellyfish/api/governance
 ---
 
 ```js

@@ -1,8 +1,5 @@
 ---
-id: oracles
 title: Oracles Ocean REST API
-sidebar_label: Oracles
-slug: /oracles
 ---
 
 ## List Oracle

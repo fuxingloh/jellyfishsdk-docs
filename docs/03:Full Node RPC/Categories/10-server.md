@@ -1,8 +1,5 @@
 ---
-id: server
 title: Server API
-sidebar_label: Server API
-slug: /jellyfish/api/server
 ---
 
 ```js

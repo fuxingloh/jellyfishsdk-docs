@@ -1,8 +1,5 @@
 ---
-id: rawtx
 title: Raw Transaction API
-sidebar_label: RawTx API
-slug: /jellyfish/api/rawtx
 ---
 
 ```js

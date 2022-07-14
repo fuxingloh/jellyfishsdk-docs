@@ -1,8 +1,5 @@
 ---
-id: misc
 title: Misc API
-sidebar_label: Misc API
-slug: /jellyfish/api/misc
 ---
 
 ```js

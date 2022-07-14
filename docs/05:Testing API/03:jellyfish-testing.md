@@ -1,8 +1,5 @@
 ---
-id: jellyfish-testing
 title: Jellyfish Testing
-sidebar_label: Jellyfish Testing
-slug: /jellyfish-testing
 ---
 
 ## What is `@defichain/jellyfish-testing`?

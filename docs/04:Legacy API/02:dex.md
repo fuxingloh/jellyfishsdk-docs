@@ -1,8 +1,5 @@
 ---
-id: dex
 title: AMM DEX API
-sidebar_label: AMM DEX API
-slug: /dex
 ---
 
 # AMM DEXes API

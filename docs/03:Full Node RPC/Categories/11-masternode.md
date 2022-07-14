@@ -1,8 +1,5 @@
 ---
-id: masternode
 title: Masternode API
-sidebar_label: Masternode API
-slug: /jellyfish/api/masternode
 ---
 
 ```js

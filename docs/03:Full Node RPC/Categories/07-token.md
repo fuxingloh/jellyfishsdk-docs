@@ -1,8 +1,5 @@
 ---
-id: token
 title: Token API
-sidebar_label: Token API
-slug: /jellyfish/api/token
 ---
 
 ```js

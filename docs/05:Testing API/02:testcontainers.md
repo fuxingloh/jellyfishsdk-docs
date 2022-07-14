@@ -1,8 +1,5 @@
 ---
-id: testcontainers
 title: Testcontainers
-sidebar_label: Testcontainers
-slug: /testcontainers
 ---
 
 ## What is testcontainers?

@@ -1,8 +1,5 @@
 ---
-id: icxorderbook
 title: ICXOrderBook API
-sidebar_label: ICXOrderBook API
-slug: /jellyfish/api/icxorderbook
 ---
 
 ```js

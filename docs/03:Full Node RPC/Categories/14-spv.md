@@ -1,8 +1,5 @@
 ---
-id: spv
 title: Spv API
-sidebar_label: Spv API
-slug: /jellyfish/api/spv
 ---
 
 ```js
