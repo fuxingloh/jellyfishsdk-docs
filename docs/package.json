@@ -13,7 +13,7 @@
     "build": "contented build"
   },
   "dependencies": {
-    "@birthdayresearch/contented": "0.1.3"
+    "@birthdayresearch/contented": "0.1.8"
   },
   "contented": {
     "name": "JellyfishSDK Docs",
