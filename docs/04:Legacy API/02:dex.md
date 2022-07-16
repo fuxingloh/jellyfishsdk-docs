@@ -8,7 +8,9 @@ title: AMM DEX API
 
 Endpoint: https://api.defichain.com/v2/listswaps
 
-:::caution DEPRECATED `/v1/listswaps`
+:::div{class="admonitions yellow"}
+
+**DEPRECATED `/v1/listswaps`**
 
 On the previous version of `/v1/listswaps`; `last_price` was mistakenly inverted.
 **`/v2/listswaps` is the corrected version.** `/v1/listswaps` has been deprecated but will still be supported.

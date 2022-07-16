@@ -2,7 +2,9 @@
 title: Ocean REST API
 ---
 
-:::info BETA API v0 & beyond
+:::div{class="admonitions yellow"}
+
+**BETA API v0 & beyond**
 
 Ocean REST API is currently in public BETA, all endpoint is prefixed with `/v0`. As part of
 [JellyfishSDK/jellyfish#580](https://github.com/JellyfishSDK/jellyfish/issues/580) consolidation effort to creating
