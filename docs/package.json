@@ -1,25 +1,16 @@
 {
   "name": "@fuxingloh/jellyfishsdk-docs",
   "version": "0.0.0",
-  "private": false,
   "files": [
     "dist"
   ],
-  "main": "dist/index.mjs",
-  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
   "scripts": {
     "write": "contented write",
     "generate": "contented generate",
     "build": "contented build"
   },
   "devDependencies": {
-    "@birthdayresearch/contented": "0.2.2"
-  },
-  "contented": {
-    "name": "JellyfishSDK Docs",
-    "url": "https://jellyfishsdk-docs.fuxing.dev",
-    "github": {
-      "url": "https://github.com/fuxingloh/jellyfishsdk-docs"
-    }
+    "@birthdayresearch/contented": "1.1.2"
   }
 }

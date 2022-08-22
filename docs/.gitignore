@@ -8,4 +8,4 @@ dist
 .contented/.next
 
 # Otherwise publish this into any static site capable website
-.contented/out
+.contented/.next/out
